@@ -1,0 +1,12 @@
+
+/*objeto interno da lista da navbar lateras*/
+.inner-nav span{
+	margin-left:20px;
+}
+
+
+.col-form-label{
+
+ line-height: 30px;
+ text-align: right;
+}
